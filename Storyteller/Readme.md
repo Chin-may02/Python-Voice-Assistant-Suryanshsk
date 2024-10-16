@@ -1,7 +1,5 @@
-
-Sure! Here’s the README file without the headers that contain "N/A":
-
 Voice Assistant Storyteller
+
 🎯 Goal
 The goal of this project is to create a voice assistant that can tell stories based on user input. The assistant listens for commands and provides an interactive storytelling experience.
 
